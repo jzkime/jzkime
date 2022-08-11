@@ -1,5 +1,5 @@
 <h1 align="center">Hello hello 👋 I'm Jazmine</h1>
-<h3 align="center">I am a driven Javascript programmer living in Washington</h3>
+<h3 align="center">A driven Javascript programmer living in Washington</h3>
 
 - 🔭 Currently working on [Creation Station](https://creation-station.vercel.app/)
 
