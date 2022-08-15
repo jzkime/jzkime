@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **JazDKime@gmail.com**
 
-- ⚡ Fun fact **I'm not a big sports fan... and yet my favorite anime is Haikyuu**
+- ⚡ Fun fact **I love to create art (digital and paint)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
