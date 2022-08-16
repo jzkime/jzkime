@@ -1,13 +1,15 @@
 <h1 align="center">Hello hello 👋 I'm Jazmine</h1>
 <h3 align="center">A driven Javascript programmer living in Washington</h3>
 
+<p>Searching for career opportunities to utilize and further develop Javascript skills in the front-end or back-end. Excited to exceed expectations and contribute to a welcoming team of fellow learners.</p>
+
 - 🔭 Currently working on [Creation Station](https://creation-station.vercel.app/)
 
 - 🌱 Currently exploring **typescript, python**
 
 - 📫 How to reach me **JazDKime@gmail.com**
 
-- ⚡ Fun fact **I love to create art (digital and paint)**
+- ⚡ Fun fact **I really enjoy art, musicals, and videogames**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
