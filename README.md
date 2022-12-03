@@ -3,13 +3,13 @@
 
 <p>Searching for career opportunities to utilize and further develop Javascript skills in the front-end or back-end. Excited to exceed expectations and contribute to a welcoming team of fellow learners.</p>
 
-- 🔭 Currently working on [Creation Station](https://creation-station.vercel.app/)
+- 🔭 Fun Personal Projects: [Creation Station](https://creation-station.vercel.app/), [Mad Blip](https://github.com/jzkime/mad-blip)
 
 - 🌱 Currently exploring **typescript, python**
 
 - 📫 How to reach me **JazDKime@gmail.com**
 
-- ⚡ Fun fact **I really enjoy art, musicals, and videogames**
+- ⚡ Fun fact **I enjoy art, musicals, and videogames**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
