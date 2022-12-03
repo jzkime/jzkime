@@ -3,7 +3,7 @@
 
 <p>Searching for career opportunities to utilize and further develop Javascript skills in the front-end or back-end. Excited to exceed expectations and contribute to a welcoming team of fellow learners.</p>
 
-- 🔭 Fun Personal Projects: [Creation Station](https://creation-station.vercel.app/), [Mad Blip](https://github.com/jzkime/mad-blip)
+- 🔭 Some fun personal projects are [Creation Station](https://creation-station.vercel.app/), [Mad Blip](https://github.com/jzkime/mad-blip)
 
 - 🌱 Currently exploring **typescript, python**
 
