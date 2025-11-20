@@ -1,7 +1,7 @@
 <h1 align="center">Jazmine Kime</h1>
 <h3 align="center">A driven Software Developer living in Washington</h3>
 
-<p>I am a dedicated Full-stack Web Developer with expertise in JavaScript, React, and Express, continuously driven by a passion for creating innovative and user friendly projects. I am committed to staying at the forefront of the ever-evolving tech landscape, embracing the ongoing journey of learning and development. My goal is to not only improve my skills but also to uplift those around me through collaboration and shared success.</p>
+<p>I am a dedicated Front-end Web Developer with a history in Full-stack and expertise in Typescript, JavaScript, React. I am continuously driven by a passion for creating innovative and user friendly projects. I am committed to staying at the forefront of the ever-evolving tech landscape, embracing the ongoing journey of learning and development. My goal is to not only improve my skills but also to uplift those around me through collaboration and shared success.</p>
 
 - 🔭 Some fun personal projects are [Creation Station](https://creation-station.vercel.app/), [Mad Blip](https://github.com/jzkime/mad-blip)
 
